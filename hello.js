@@ -1,4 +1,4 @@
 var message ="hello"
 alert (message);
 alert ("hello")
-alert ("test")
+alert ("test merge")
